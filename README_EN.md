@@ -6,6 +6,8 @@ A black-box assessment of 100 LLM relay services: 19 detectors across five dimen
 
 Online leaderboard: <https://ai.trusttools.cn/benchmark>
 
+![image-20260918164332039](images/cover-en.png)
+
 Full report: see "Report downloads" below — it contains the complete methodology and the scores of all 100 sites.
 
 ---
