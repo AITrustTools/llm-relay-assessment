@@ -6,6 +6,8 @@
 
 在线排行榜：<https://ai.trusttools.cn/benchmark>
 
+![image-20260918164221488](images/cover.png)
+
 完整报告：见下方「报告下载」，含完整方法论与全部 100 个站点的评分明细
 
 ---
